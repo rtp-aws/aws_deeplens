@@ -1,0 +1,29 @@
+Rekognition labe response {'Labels': [{'Name'
+: 'Furniture', 'Confidence': 99.8793716430664, 'Instances': [], 'Parents': []}, {'Name':
+'Shelf', 'Confidence': 99.45764923095703, 'Instances': [], 'Parents': []}, {'Name'
+: 'Person', 'Confidence': 97.91722106933594, 'Instances': [{'BoundingBox': {'Width': 0.5380805134773254, 'Height': 0.7805877923965454, 'Left': 0.17712220549583435, 'Top': 0.2167806476354599}, 'Confidence': 97.91722106933594}], 'Parents': []}, {'Name':
+'Human', 'Confidence': 97.91722106933594, 'Instances': [], 'Parents': []}, {'Name':
+'Interior Design', 'Confidence': 97.67374420166016, 'Instances': [], 'Parents': [{'Name':
+'Indoors'}]}, {'Name':
+'Indoors', 'Confidence': 97.67374420166016, 'Instances': [], 'Parents': []}, {'Name':
+'Table', 'Confidence': 96.4368667602539, 'Instances': [], 'Parents': [{'Name':
+'Furniture'}]}, {'Name':
+'Glasses', 'Confidence': 95.83125305175781, 'Instances': [{'BoundingBox': {'Width': 0.11731956154108047, 'Height': 0.06977099180221558, 'Left': 0.4925233721733093, 'Top': 0.3128005266189575}, 'Confidence': 74.72634887695312}], 'Parents': [{'Name':
+'Accessories'}]}, {'Name':
+'Accessories', 'Confidence': 95.83125305175781, 'Instances': [], 'Parents': []}, {'Name':
+'Accessory', 'Confidence': 95.83125305175781, 'Instances': [], 'Parents': []}, {'Name':
+'Chair', 'Confidence': 92.1604232788086, 'Instances': [], 'Parents': [{'Name':
+'Furniture'}]}, {'Name': 
+'Face', 'Confidence': 91.38228607177734, 'Instances': [], 'Parents': [{'Name':
+'Person'}]}, {'Name':
+'Room', 'Confidence': 85.99079132080078, 'Instances': [], 'Parents': [{'Name':
+'Indoors'}]}, {'Name':
+'Clothing', 'Confidence': 81.11366271972656, 'Instances': [], 'Parents': []}, {'Name':
+'Apparel', 'Confidence': 81.11366271972656, 'Instances': [], 'Parents': []}, {'Name':
+'Bookcase', 'Confidence': 78.27984619140625, 'Instances': [], 'Parents': [{'Name':
+'Furniture'}]}, {'Name':
+'Meal', 'Confidence': 76.3760757446289, 'Instances': [], 'Parents': [{'Name': 
+'Food'}]}, {'Name':
+'Food', 'Confidence': 76.3760757446289, 'Instances': [], 'Parents': []}], 'LabelModelVersion': '2.0', 'ResponseMetadata': {'RequestId': 'afa02547-491a-4e22-984c-c56065ce4086', 'HTTPStatusCode': 200, 'HTTPHeaders': {'content-type': 'application/x-amz-json-1.1', 'date': 'Sun, 21 Feb 2021 18:55:45 GMT', 'x-amzn-requestid': 'afa02547-491a-4e22-984c-c56065ce4086', 'content-length': '1895', 'connection': 'keep-alive'}, 'RetryAttempts': 0}}
+
+
